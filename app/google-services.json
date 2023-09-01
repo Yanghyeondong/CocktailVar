@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821751297076",
+    "project_id": "cocktailvar",
+    "storage_bucket": "cocktailvar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821751297076:android:1c87e6a2f72a95291f4661",
+        "android_client_info": {
+          "package_name": "edu.skku.cs.pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821751297076-lboni80kn63hp4eag57aamtukhd1qao3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.cs.pp",
+            "certificate_hash": "4330f18cd1cc7c659eb160cf8fae878df9f2f92e"
+          }
+        },
+        {
+          "client_id": "821751297076-us7qrv8mjmk9a84nc77jg300aibh6o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaC7Hhh7VY8u4JydHEBhnhL1crCZ-Xgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821751297076-tc3d6i2i0iodh9lutut4frc81g4h32na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
